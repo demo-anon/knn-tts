@@ -1,3 +1,3 @@
-# SSL-TTS
+# kNN-TTS
 
-Demo page: https://demo-anon.github.io/ssl-tts/
+Demo page: https://demo-anon.github.io/kNN-tts/
